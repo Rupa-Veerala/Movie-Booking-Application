@@ -9,6 +9,7 @@ npm i react-router-dom
 npm i mongodb
 npm i mongoose
 npm i dotenv
+npm i bcrypt
 
 database username: Rupa,
 password: 2003
