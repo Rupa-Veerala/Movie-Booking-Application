@@ -1,9 +1,14 @@
 folders: backend
 movies(forntend)
 
-installation:
+BACKEND - installation:
 npm i cors
 npm i express
 npm install nodemon
 npm i react-router-dom
 npm i mongodb
+npm i mongoose
+npm i dotenv
+
+database username: Rupa,
+password: 2003
