@@ -1,7 +1,9 @@
 const express = require('express');
-const movieRouter = express.Router;
+const movieRouter = express.Router();
 
-movieRouter.get('/signup', getAllMovie);
+const { addMovie, getAllMovie, getMovieById } = require('../controllers/movie-controller');
+
+movieRouter.get('/', getAllMovie);
 movieRouter.post('/add', addMovie);
 movieRouter.get('/:id', getAdminById);
 
