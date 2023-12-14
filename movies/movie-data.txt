@@ -90,3 +90,4 @@
     "posterUrl":"https://www.gadgets360.com/entertainment/govinda-naam-mera-movie-105711",
     "actors":["Vicky Kaushal", "Bhumi Pednekar", "Kiara Advani", "Deependra Singh", "Dayanand Shetty", "Sayaji Shinde"]
 }
+

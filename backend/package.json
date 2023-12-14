@@ -4,7 +4,8 @@
   "description": "Movie Booking Application",
   "main": "app.js",
   "scripts": {
-    "start": " node app.js",
+    "start": " nodemon app.js",
+    "build": "npm i",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
